@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IdeaProjects-Lessons.iml" filepath="$PROJECT_DIR$/.idea/modules/IdeaProjects-Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lessons.iml" filepath="$PROJECT_DIR$/.idea/modules/Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sandbox/Lessons-Lessons.iml" filepath="$PROJECT_DIR$/.idea/modules/Sandbox/Lessons-Lessons.iml" group="Lessons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sandbox/Lessons-Lessons_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sandbox/Lessons-Lessons_main.iml" group="Lessons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sandbox/Lessons-Lessons_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sandbox/Lessons-Lessons_test.iml" group="Lessons" />
+    </modules>
+  </component>
+</project>
