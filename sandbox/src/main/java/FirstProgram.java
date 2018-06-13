@@ -1,11 +1,15 @@
 public class FirstProgram {
     public static void main(String[] args) {
         hello("User!");
-        double len=5;
-        System.out.println("Area of Square with side "+ len +" = " +area(len));
-        double a=3;
-        double b=4;
-        System.out.println("Area of Rectangle with sides " + a + " and " + b + " = " +area(a,b));
+
+        Square s=new Square();
+        s.l=5;
+        System.out.println("Area of Square with side "+ s.l +" = " +area(s));
+
+        Rectangle r=new Rectangle();
+        r.a=3;
+        r.b=4;
+        System.out.println("Area of Rectangle with sides " + r.a + " and " + r.b + " = " +area(r));
        
     }
 
@@ -13,13 +17,13 @@ public class FirstProgram {
         System.out.println("Hello, "+somebody);
     }
 
-    public static double area(double l){
-       return l*l;
+    public static double area(Square s){
+       return s.l * s.l;
 
     }
 
-    public static double area(double a, double b){
-        return a*b;
+    public static double area(Rectangle r){
+        return r.a * r.b;
     }
 
 }
