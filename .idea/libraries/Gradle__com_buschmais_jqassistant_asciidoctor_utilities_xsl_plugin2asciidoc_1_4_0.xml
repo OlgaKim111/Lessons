@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.buschmais.jqassistant:asciidoctor-utilities:xsl:plugin2asciidoc:1.4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant/asciidoctor-utilities/1.4.0/341319e2e00991bebfe7cc2064dec018474ff159/asciidoctor-utilities-1.4.0-plugin2asciidoc.xsl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant/asciidoctor-utilities/1.4.0/b4461d3d9a8f087a12def2ed8e6f67f21dd14ea0/asciidoctor-utilities-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

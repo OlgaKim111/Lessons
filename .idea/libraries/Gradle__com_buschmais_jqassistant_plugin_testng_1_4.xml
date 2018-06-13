@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.buschmais.jqassistant.plugin:testng:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant.plugin/testng/1.4/864e87c686f75ab64ebcf1837c43538ff3a2f3df/testng-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant.plugin/testng/1.4/dd0ba62fa39329b0cfbde61fca42a7a4aebb550/testng-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
